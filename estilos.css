@@ -1,0 +1,48 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #FFF;
+}
+nav{
+	display: flex;
+	background: #1C1C1C;
+	padding: 10px;
+}
+h1{
+	font-size: 14;
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+	color: #FFF;
+	margin-right: 15px;
+}
+.menu{
+	color: #FFF;
+	display: flex;
+	list-style: none;
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+}
+.menu li{
+	margin: 0px 10px;
+	padding: 5px;
+}
+footer{
+	display: flex;
+	padding: 10px;
+	background: #1C1C1C;
+}
+.rodape{
+	font-family: sans-serif;
+	color: #FFF;
+	list-style: none;
+}
+.info li{
+	display: flex;
+	border: 1px solid #000;
+	margin: 5px;
+}
+.info li img{
+	width: 100px;
+}
