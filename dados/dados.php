@@ -1,47 +1,12 @@
-<?php
-	$produtos = array(
-		"1" => array(
-			"idProduto1" => 1,
-			"item" => "TRUFA LIMÃO",
-			"preco" => "R$",
-			"valor" => "2,00",
-			"fotoTrufa" => "img/trufa_limao.jpg",
-		),
-		"2" => array(
-			"idProduto2" => 2,
-			"item" => "TRUFA MORANGO",
-			"preco" => "R$",
-			"valor" => "2,00",
-			"fotoTrufa" => "img/trufa_morango.jpg",
-		),
-		"3" => array(
-			"idProduto3" => 3,
-			"item" => "TRUFA TRADICIONAL",
-			"preco" => "R$",
-			"valor" => "2,00",
-			"fotoTrufa" => "img/trufa_tradicional.jpg",
-		),
-	);
-	$quemsomos = array(
-		"1" => array(
-			"idQuemSomos" => 1,
-			"texto" => "breve texto",
-			"logo" => "",
-		),
-	);
-	$contatolocal = array(
-		"1" => array(
-			"idContatolocal" => 1,
-			"nome" => "Contato",
-			"telefone" => "(85) 9 8610-4456",
-			"email" => "trufas@gmail.com",
+<? php  
+	$ cupcakes = array ( 
+		   array ( "nome" => "TRUFA DE CHOCOLATE" , "preco" => "5,00" , "img" => "images / chocolate.png" ), 
 
-		),
-		"2" => array(
-			"idLocal" => 2,
-			"endereco" => "",
-			"cidade" => "Fortaleza",
-			"fotolocal" => "",
-		),
-	);
-?>
+		   array ( "nome" => "TRUFA DE MORANGO" , "preco" => "5,00" , "img" => "imagens / morango.png" ), 
+
+		   array ( "nome" => "TRUFA DE DOCE DE LEITE" , "preco" => "5,00" , "img" => "images / docedeleite.png" ), 
+
+		   array ( "nome" => "TRUFA DE LEITE CONDENSADO" , "preco" => "5,00" , "img" => "images / personalizado.png" ), 
+		   
+		); 
+ ?> 

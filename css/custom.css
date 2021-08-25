@@ -1,0 +1,119 @@
+.topo {
+    padding: 15px 0;
+    position: relative;
+}
+
+.bm-busca {
+    position: relative;
+    left: 300px;
+}
+
+.banner-topo {
+    background: #000000;
+    max-width: 1600px;
+}
+
+.destaque {
+    padding: 30px 0;
+}
+
+.img-destaque {
+    max-width: 300px;
+    padding: 60px 0;
+}
+
+.img2-destaque {
+    max-width: 400px;
+    padding: 60px 0;
+}
+
+.banner-topo h1 {
+    font-family: Brush Script MT;
+    color: white;
+}
+
+.banner-topo p {
+    font-family: sans-serif;
+}
+
+.nav-link {
+    color: black;
+}
+
+.bm-chocolate {
+    width: 120px;
+    height: 120px;
+}
+
+.bm-morango {
+    width: 120px;
+    height: 120px;
+}
+
+.bm-docedeleite {
+    width: 120px;
+    height: 120px;
+}
+
+.bm-personalizado {
+    width: 120px;
+    height: 120px;
+}
+
+.tx-sabor {
+    font-family: sans-serif;
+    font-weight: bold
+}
+
+.txt-sabor {
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold
+}
+
+.quem-somos {
+    background: black;
+    color: white;
+    font-family: sans-serif;
+    position: relative;
+}
+
+.sabor-xt {
+    font-family: sans-serif;
+    font-weight: bold
+}
+
+.rodape {
+    background: white;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold
+}
+
+.rodape1 {
+    background: #000000;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.bm-iconeinstagram img {
+    width: 31px;
+    height: 31px;
+    position: relative;
+    left: -100px;
+    top: 23%;
+}
+
+.bm-iconefacebook img {
+    width: 52px;
+    height: 52px;
+    position: relative;
+    left: -100px;
+    top: 33%;
+}
+
+.name {
+    font-family: sans-serif;
+    font-weight: bold
+}
